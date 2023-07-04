@@ -1,0 +1,14 @@
+.image-container{
+    
+    display: inline;
+    gap: 10px;
+    flex-basis: 100px;
+    padding: 0%;
+    border: 10px;
+    margin: 0%;
+    position: relative;
+}
+@media(min-width:300px){
+    body{background-color: rgb(255, 255, 255); background-position: center;}
+    .image-style{width:200px; padding: px; margin-left: 10px; position: relative;}
+}
